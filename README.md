@@ -12,11 +12,11 @@
 #### BIO
 
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web Development-purple"> and <img src="https://img.shields.io/badge/Cybersecurity-ff0000">
-- 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-amber">.
+- 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-e9404c">.
 - 🌱 Learning all about <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react"> and <img src="https://img.shields.io/badge/Offensive Security-008080">
 - 🤝 Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Web Development-purple">
-- ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-yellow"> and <img src="https://img.shields.io/badge/NodeJS-green">
-- 🙋‍♂️ Reach me: <a href="mailto:hexadivine@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hexadivine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+- ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-yellow"> and <img src="https://img.shields.io/badge/NodeJS-2ea043">
+- 🙋‍♂️ Reach out to me: <a href="mailto:hexadivine@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hexadivine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/hrushikeshdolas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-hrushikeshdolas-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 <hr>
 <!-- Education -->
