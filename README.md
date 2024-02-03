@@ -6,8 +6,19 @@
 
 <!-- Description -->
 
+##### NOW
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently learning and building projects using <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react">
 
+#### BIO
 
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web Development-purple"> and <img src="https://img.shields.io/badge/Cybersecurity-ff0000">
+- 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-amber">.
+- 🌱 Learning all about <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react"> and <img src="https://img.shields.io/badge/Offensive Security-008080">
+- 🤝 Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Web Development-purple">
+- ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-yellow"> and <img src="https://img.shields.io/badge/NodeJS-green">
+- 🙋‍♂️ Reach me: <a href="mailto:hexadivine@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hexadivine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
+<hr>
 <!-- Education -->
 
 <details>
@@ -34,3 +45,5 @@
 | Cognizant | Student Intern     | • Built and deployed **Splunk architecture** to **fetch, store, and visualise**<br>machine data on **AWS EC2 instances**.<br>• Learnt • Dev-Ops tools • Linux & Windows Server Administration •<br>Cloud, CI/CD, AWS Fundamentals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Jan 2021 – July 2021 |  Remote  |
 
 </details>
+
+
