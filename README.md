@@ -6,7 +6,7 @@
 
 <!-- Description -->
 
-##### NOW
+#### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently learning and building projects using <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react">
 
 #### BIO
@@ -47,13 +47,26 @@
 </details>
 <hr>
 
+<!-- Languages & tools-->
+
+<details>
+<summary><samp>&#9776;</samp> Languages <i>(click to expand) 🔗 </i> </summary>
+<br>
+
+
+
+</details>
+
+<hr>
 <!-- Stats -->
-#### Some Cool Stats
-
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<details>
+<summary><samp>&#9776;</samp> Some Cool Stats <i>(click to expand) 🔗 </i> </summary>
+<br/>
+<img alt="Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="center">
+  <br clean="both">
+  <br/>
   <img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="200" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true"  width="47%" height="200" />
 </p>
 
@@ -81,6 +94,9 @@
 <p align="center">
 
 </p>
+
+</details>
+
 
 <!--START_SECTION:SHOW_OS-->
 <!--END_SECTION:SHOW_OS-->
