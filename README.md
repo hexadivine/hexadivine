@@ -50,7 +50,9 @@
 <!-- Stats -->
 #### Some Cool Stats
 
-<img alt="Hrushikesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula" />
+<img align="right" src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" />
 
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
+<!--START_SECTION:SHOW_OS-->
+<!--END_SECTION:SHOW_OS-->
