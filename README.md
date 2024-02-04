@@ -51,12 +51,14 @@
 #### Some Cool Stats
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula" />
-</p>
 
-<img align="right" src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula" />
+
+  <img  src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" />
+
 
 <!--START_SECTION:SHOW_OS-->
 <!--END_SECTION:SHOW_OS-->
