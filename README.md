@@ -15,7 +15,7 @@
 - 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-e9404c">.
 - 🌱 Learning all about <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react"> and <img src="https://img.shields.io/badge/Offensive Security-008080">
 - 🤝 Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Web Development-purple">
-- ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-yellow"> and <img src="https://img.shields.io/badge/NodeJS-2ea043">
+- ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-f6de37"> and <img src="https://img.shields.io/badge/NodeJS-2ea043">
 - 🙋‍♂️ Reach out to me: <a href="mailto:hexadivine@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hexadivine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/hrushikeshdolas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-hrushikeshdolas-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 <hr>
@@ -45,5 +45,12 @@
 | Cognizant | Student Intern     | • Built and deployed **Splunk architecture** to **fetch, store, and visualise**<br>machine data on **AWS EC2 instances**.<br>• Learnt • Dev-Ops tools • Linux & Windows Server Administration •<br>Cloud, CI/CD, AWS Fundamentals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Jan 2021 – July 2021 |  Remote  |
 
 </details>
+<hr>
 
+<!-- Stats -->
+#### Some Cool Stats
 
+<img alt="Hrushikesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
