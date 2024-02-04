@@ -53,7 +53,9 @@
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" height="100" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" height="100"  />
+<p align="center">
+<img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="200" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true"  width="47%" height="200" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" />
 
