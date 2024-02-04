@@ -52,5 +52,5 @@
 
 <img alt="Hrushikesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
