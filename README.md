@@ -54,10 +54,24 @@
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="center">
-<img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="200" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true"  width="47%" height="200" />
+  <img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="200" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true"  width="47%" height="200" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="35%" />
+  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/0f9dc64d-80bb-431f-93d4-2f6a1be65975.png"  width="60%" />
+  <br clear="left"/>
+  <br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="35%" />
+  <br clear="right"/>
+  <br/>
+  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png"  height="500" width="60%"/>
+  
+</p>
+
+<p align="center">
+
+</p>
 
 <!--START_SECTION:SHOW_OS-->
 <!--END_SECTION:SHOW_OS-->
