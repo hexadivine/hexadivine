@@ -74,8 +74,9 @@
 </p>
 
 <p align="center">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="40%" />
-  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/0f9dc64d-80bb-431f-93d4-2f6a1be65975.png"  width="50%" />
+  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/0f9dc64d-80bb-431f-93d4-2f6a1be65975.png"  width="54%" />
   
   <br clear="left"/>
   <br/>
@@ -86,7 +87,7 @@
 
   <br clear="right"/>
   <br/>
-  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png"  height="500" width="50%"/>
+  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png"  height="500" width="54%"/>
 
   <br clear="left"/>
   <br/>
