@@ -81,7 +81,7 @@
   <br clear="left"/>
   <br/>
   
-  <img align="left" src="https://leetcard.jacoblin.cool/HEXA-DIVINE?ext=activity"  width="40%" />
+  <img align="left" src="https://leetcard.jacoblin.cool/hexadivine?ext=activity"  width="40%" />
   
 
 
