@@ -27,8 +27,8 @@
 
 |         **University/College**        |                    **Degree**                   |           **Status**          | **Graduation** |
 |:-------------------------------------:|:-----------------------------------------------:|:-----------------------------:|:--------------:|
-| University of Technology, Sydney      | Masters in Information Technology - Extension   | Commencing Student (Feb 2024) |       NA       |
-| Savitribai Phule Pune University      | Bachelors in Technology - Computer Engineering  |          CGPA - 8.17          |    July 2021   |
+| University of Technology, Sydney      | Masters in Information Technology - Extension   |           GPA - 6.75/7        |     Dec 2025   |
+| Savitribai Phule Pune University      | Bachelors in Technology - Computer Engineering  |          CGPA - 8.17/10       |    July 2021   |
 | Asian College of Science and Commerce | Maharashtra Higher Secondary School Certificate |              Pass             |    May 2017    |
 
 </details>
