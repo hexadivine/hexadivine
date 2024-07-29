@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
 <h1 align="center"> <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/> I'm Hrushikesh Dolas <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/>  </h1>
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Contributor;Undergrad+B.Tech.+Student+Alumni+%40+MIT+AOE+" alt="Typing SVG" /> </h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Enthusiast;Undergrad+B.Tech.+Student+Alumni+%40+MIT+AOE+" alt="Typing SVG" /> </h2>
 
 <!-- Description -->
 
