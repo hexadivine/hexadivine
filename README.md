@@ -49,8 +49,8 @@
 
 <!-- Languages & tools-->
 
-<details>
-<summary><samp>&#9776;</samp> Languages <i>(click to expand) 🔗 </i> </summary>
+<details open>
+<summary><samp>&#9776;</samp> Languages</summary>
 <br>
 
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -63,7 +63,7 @@
 <hr>
 <!-- Stats -->
 <details open>
-<summary><samp>&#9776;</samp> Some Cool Stats <i>(click to expand) 🔗 </i> </summary>
+<summary><samp>&#9776;</samp> Some Cool Stats</summary>
 <br/>
 <img alt="Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
