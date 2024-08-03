@@ -72,6 +72,7 @@
 
 #### Database
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-003B57.svg?logo=sql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ahexadivine+language%3Amongodb"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
 
 </details>
 
