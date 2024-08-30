@@ -81,40 +81,33 @@
 <details open>
 <summary><samp>&#9776;</samp> Some Cool Stats</summary>
 <br/>
-<img alt="Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+<!-- Activity Graph -->
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hexadivine&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" style="width: 100%; height: auto;" />
 
 <p align="center">
-  <br clean="both">
-  <br/>
-  <img align="left" alt="Overview"  src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="200" />  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true"  width="47%" height="200" />
+  <!-- Top Languages and Wakatime Stats -->
+  <img src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/0f9dc64d-80bb-431f-93d4-2f6a1be65975.png" width="47%" style="max-width: 100%; height: auto; object-fit: cover;" />
+  <img src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png" width="47%" style="max-width: 100%; height: auto; object-fit: cover;" />
 </p>
+
+<!-- Responsive Stats -->
+<p align="center">
+  <!-- Overview and Streak Stats -->
+  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%"  style="max-width: 100%; object-fit: cover;" />  
+  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" width="47%" style="max-width: 100%; object-fit: cover;" />
+</p>
+
 
 <p align="center">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="40%" />
-  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/0f9dc64d-80bb-431f-93d4-2f6a1be65975.png"  width="54%" />
-  
-  <br clear="left"/>
-  <br/>
-  
-  <img align="left" src="https://leetcard.jacoblin.cool/hexadivine?ext=activity"  width="40%" />
-  
-
-
-  <br clear="right"/>
-  <br/>
-  <img align="right" src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png"  height="500" width="54%"/>
-
-  <br clear="left"/>
-  <br/>
-  <br/>
-  <br/>
-  <img align="left" src="https://widgetbite.com/stats/hexadivine" alt="watching_count" width="35%" />
-  
+  <!-- LeetCode Activity and Top Languages Stats -->
+  <img src="https://widgetbite.com/stats/hexadivine" alt="watching_count" width="47%"  style="max-width: 100%; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="47%" style="max-width: 100%; object-fit: cover;" />
 </p>
-
 
 </details>
+
+<!-- <img src="https://leetcard.jacoblin.cool/hexadivine?ext=activity" style="width: 40%; height: 500px; object-fit: cover; min-width: 300px;" /> -->
 
 
 <!--START_SECTION:SHOW_OS-->
