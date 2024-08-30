@@ -2,14 +2,14 @@
 
 <h3 align="center"> Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
 <h1 align="center"> <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/> I'm Hrushikesh Dolas <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/>  </h1>
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Enthusiast;Undergrad+B.Tech.+Student+Alumni+%40+MIT+AOE+" alt="Typing SVG" /> </h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Enthusiast;Undergrad+B.Tech.+Student+Alumni+%40+MIT+AOE+" alt="Typing SVG" /> </p>
 
 <!-- Description -->
 
-#### NOW
+<b> NOW</b>
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently learning and building projects using <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react">
 
-#### BIO
+<b> BIO </b>
 
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web Development-purple"> and <img src="https://img.shields.io/badge/Cybersecurity-ff0000">
 - 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-e9404c">.
@@ -53,27 +53,36 @@
 <summary><samp>&#9776;</samp> Languages, Tools & Technologies</summary>
 <br>
 
-#### Programming Languages 
+<b> Programming Languages </b>
+<p>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Ac%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-004482.svg?logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
 
- #### Web Technologies
+ <b> Web Technologies </b>
+ <p>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Atailwindcss"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+</p>
 
-#### Tech Stack
+
+<b> Tech Stack </b>
+
+<p>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Amongodb"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Aexpress"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Anode.js"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+</p>
 
-#### Database
+<b> Database </b>
+<p>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-003B57.svg?logo=sql&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ahexadivine+language%3Amongodb"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-
+</p>
 </details>
 
 <hr>
