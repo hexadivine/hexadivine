@@ -1,38 +1,49 @@
 <!-- Heading -->
 
-<h3 align="center"> Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
-<h1 align="center"> <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/> I'm Hrushikesh Dolas <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="25"/>  </h1>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Enthusiast;Undergrad+B.Tech.+Student+Alumni+%40+MIT+AOE+" alt="Typing SVG" /> </p>
+<h3 align="center"> Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
+<h1 align="center">  
+<img src="https://img.shields.io/badge/-I-red" alt="I">
+<img src="https://img.shields.io/badge/-%27-orange" alt="'">
+<img src="https://img.shields.io/badge/-M-yellow" alt="M">
+<img src="https://img.shields.io/badge/--blue" alt=" ">
+<img src="https://img.shields.io/badge/-H-green" alt="H">
+<img src="https://img.shields.io/badge/-R-blue" alt="R">
+<img src="https://img.shields.io/badge/-U-purple" alt="U">
+<img src="https://img.shields.io/badge/-S-pink" alt="S">
+<img src="https://img.shields.io/badge/-H-cyan" alt="H">
+<img src="https://img.shields.io/badge/-I-lime" alt="I">
+<img src="https://img.shields.io/badge/-K-brown" alt="K">
+<img src="https://img.shields.io/badge/-E-teal" alt="E">
+<img src="https://img.shields.io/badge/-S-magenta" alt="S">
+<img src="https://img.shields.io/badge/--blue" alt=" ">
+<img src="https://img.shields.io/badge/-D-salmon" alt="D">
+<img src="https://img.shields.io/badge/-O-gold" alt="O">
+<img src="https://img.shields.io/badge/-L-navy" alt="L">
+<img src="https://img.shields.io/badge/-A-turquoise" alt="A">
+<img src="https://img.shields.io/badge/-S-lightgrey" alt="S">
+
+   </h1> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Changa&duration=800&pause=3000&color=FFFFFF&center=true&random=true&width=1100&lines=Full+Stack+Web+Developer;Student+-+pursuing+Master+in+Information+Technology+-+Extension+%40+University+of+Technology+Sydney;ex-Release+Analyst+%40+Blue+Cross+Blue+Shield;ex-Programmer+Analyst+%40+Cognizant;Open+Source+Enthusiast" alt="Typing SVG" /> </p>
 
 <!-- Description -->
 
 <b> NOW</b>
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently learning and building projects using <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react">
+- Solving CTFs on ![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=hack) and ![](https://img.shields.io/badge/HackTheBox-darkgreen)
+- Building projects using ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)![Express](https://img.shields.io/badge/Express-darkorange?logo=express&logoColor=white)![React](https://img.shields.io/badge/ReactJS-darkblue?logo=react&logoColor=white)![NodeJS](https://img.shields.io/badge/Node.js-darkyellow?logo=node.js&logoColor=white)
+
 
 <b> BIO </b>
 
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web Development-purple"> and <img src="https://img.shields.io/badge/Cybersecurity-ff0000">
-- 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-e9404c">.
+- 🎯 Specifically interested in <img src="https://img.shields.io/badge/MERN Stack-blue"> and <img src="https://img.shields.io/badge/Pentesting-e9404c">
 - 🌱 Learning all about <img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-black?logo=react"> and <img src="https://img.shields.io/badge/Offensive Security-008080">
-- 🤝 Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Web Development-purple">
+- 🤝 Looking for:
+	- Junior roles in <img src="https://img.shields.io/badge/Cybersecurity-ff0000"> 
+	- Collaboration on <img src="https://img.shields.io/badge/Open%20Source%20Projects-purple"> in <img src="https://img.shields.io/badge/Web%20Development-purple">
 - ✉️ Ping me about <img src="https://img.shields.io/badge/Javascript-f6de37"> and <img src="https://img.shields.io/badge/NodeJS-2ea043">
 - 🙋‍♂️ Reach out to me: <a href="mailto:hexadivine@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hexadivine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/hrushikeshdolas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-hrushikeshdolas-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 <hr>
-<!-- Education -->
-
-<details>
-<summary><samp>&#9776;</samp> Education <i>(click to expand) 🔗 </i> </summary>
-<br>
-
-|         **University/College**        |                    **Degree**                   |           **Status**          | **Graduation** |
-|:-------------------------------------:|:-----------------------------------------------:|:-----------------------------:|:--------------:|
-| University of Technology, Sydney      | Masters in Information Technology - Extension   |           GPA - 6.75/7        |     Dec 2025   |
-| Savitribai Phule Pune University      | Bachelors in Technology - Computer Engineering  |          CGPA - 8.17/10       |    July 2021   |
-| Asian College of Science and Commerce | Maharashtra Higher Secondary School Certificate |              Pass             |    May 2017    |
-
-</details>
-
 <!-- Experience -->
 
 <details>
@@ -47,6 +58,19 @@
 </details>
 <hr>
 
+<!-- Education -->
+
+<details>
+<summary><samp>&#9776;</samp> Education <i>(click to expand) 🔗 </i> </summary>
+<br>
+
+|         **University/College**        |                    **Degree**                   |           **Status**          | **Graduation** |
+|:-------------------------------------:|:-----------------------------------------------:|:-----------------------------:|:--------------:|
+| University of Technology, Sydney      | Masters in Information Technology - Extension   |           GPA - 6.75/7        |     Dec 2025   |
+| Savitribai Phule Pune University      | Bachelors in Technology - Computer Engineering  |          CGPA - 8.17/10       |    July 2021   |
+| Asian College of Science and Commerce | Maharashtra Higher Secondary School Certificate |              Pass             |    May 2017    |
+
+</details>
 <!-- Languages & tools-->
 
 <details open>
@@ -115,9 +139,3 @@
 </p>
 
 </details>
-
-<!-- <img src="https://leetcard.jacoblin.cool/hexadivine?ext=activity" style="width: 40%; height: 500px; object-fit: cover; min-width: 300px;" /> -->
-
-
-<!--START_SECTION:SHOW_OS-->
-<!--END_SECTION:SHOW_OS-->
