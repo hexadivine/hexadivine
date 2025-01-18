@@ -124,18 +124,21 @@
   <img src="https://wakatime.com/share/@018d726e-439c-475c-b7d1-4ff05a11b2f1/d50bc9fa-ecb5-49cc-8266-08b2010cc661.png" width="47%" style="max-width: 100%; height: auto; object-fit: cover;" />
 </p>
 
-<!-- Responsive Stats -->
 <p align="center">
-  <!-- Overview and Streak Stats -->
-  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%"  style="max-width: 100%; object-fit: cover;" />  
-  <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" width="47%" style="max-width: 100%; object-fit: cover;" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="500px" style="max-width: 100%; object-fit: cover;" />
 
-
-<p align="center">
+	
+  <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=hexadivine&theme=dracula&hide_border=true" width="47%" height="500px"  style="max-width: 100%; object-fit: cover;" />  
+	
   <!-- LeetCode Activity and Top Languages Stats -->
-  <img src="https://widgetbite.com/stats/hexadivine" alt="watching_count" width="47%"  style="max-width: 100%; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadivine&theme=dracula&hide_border=true" width="47%" style="max-width: 100%; object-fit: cover;" />
+   
+
 </p>
+
+<!-- Responsive Stats
+<p align="center"> -->
+  <!-- Overview and Streak Stats -->
+<!--   <img src="https://streak-stats.demolab.com?user=hexadivine&theme=dracula&hide_border=true" width="47%" style="max-width: 100%; object-fit: cover;" /> 
+</p>  -->
 
 </details>
